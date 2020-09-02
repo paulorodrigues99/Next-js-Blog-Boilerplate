@@ -1,9 +1,9 @@
 export const Config = {
-  site_name: 'Starter',
-  title: 'Next.js Boilerplate',
-  description: 'Starter code for your Next.js blog Boilerplate',
-  url: 'https://example.com',
-  locale: 'en',
-  author: 'Anonymous',
-  pagination_size: 5,
+  site_name: 'Sound PE',
+  title: 'Sua plataforma de musica nacional',
+  description: 'Código inicial para o projeto',
+  url: '#',
+  locale: 'pt',
+  author: 'Paulo Rodrigues',
+  pagination_size: 3,
 };
